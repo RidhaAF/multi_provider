@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class WeightProvider with ChangeNotifier {
-  double _weight = 40;
+  double _weight = 50;
 
   double get weight => _weight;
 
